@@ -1,0 +1,11 @@
+.list-items {
+    border : 10px solid gold;
+    margin : 5px;
+    font-size: 20px;
+}
+
+#main-heading{
+    border: 10px solid dodgerblue;
+    font-size: 25px;
+}
+
